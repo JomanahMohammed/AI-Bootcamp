@@ -1,6 +1,6 @@
 # AI-Bootcamp
 
-🔵  <b>  Skills  : </b> Python <br>
+🔵  <b>  Skills : </b> Python <br>
 🟠  <b>  Editor   :</b> Visual Studio Code <br><br><hr>
 <h2>🔷🔶 About The Repository Content  :  🔶🔷</h2>
 🔷 Install Python libraries<br><br>
